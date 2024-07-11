@@ -5,14 +5,15 @@
   - 주관처 : 코리아IT아카데미
   - 기간 : 2023.12.27. ~ 2024.06.24.
   - 교육내용
-    - DB
-    - 데이터베이스의 정의 및 기본 개념
-    - 데이터 모델링
-    - 데이터 정규화
-    - DML, DDL, TCL, DCL
-    - JOIN과 서브쿼리 활용
     
-    - Python
+    DB
+      - 데이터베이스의 정의 및 기본 개념
+      - 데이터 모델링
+      - 데이터 정규화
+      - DML, DDL, TCL, DCL
+      - JOIN과 서브쿼리 활용
+    
+    Python
     - 파이썬 기초 문법
     - 제어문 학습
     - Pandas 데이터 구조 학습
@@ -21,13 +22,13 @@
     - Numpy 다차원 배열 이해
     - 데이터 시각화
     
-    - DJango
+    DJango
     - MVT 패턴 학습
     - ORM 활용
     - RESTAPI 개념 학습
     - Template과 디렉터리 학습
     
-    - Machine Learning
+    Machine Learning
     - 머신러닝의 개념
     - 회귀/분류
     - 지도학습/비지도학습
